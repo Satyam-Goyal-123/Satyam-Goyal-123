@@ -1,4 +1,4 @@
-![MasterHead](https://technology.riotgames.com/sites/default/files/articles/81/tech-blog-animation.gif)
+![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 <h1 align="center">Hi 👋, I'm Satyam Goyal</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
