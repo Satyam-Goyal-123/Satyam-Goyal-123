@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Goyal</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<h3 href="https://www.linkedin.com/in/satyam-g18" align="left" target="_blank">Connect with me:/</h3>
+<h3 href="https://www.linkedin.com/in/satyam-g18/" align="left" target="_blank">Connect with me:</h3>
 <p align="left">
 </p>
 
